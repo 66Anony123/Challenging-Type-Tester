@@ -1,0 +1,15 @@
+button{
+padding: 13px;
+color : white;
+background-color: black;
+}
+button:hover{
+
+    color:green;
+    background-color: yellowgreen;
+}
+
+.welcome_container{
+margin-top: 20%;
+    text-align: center;
+}

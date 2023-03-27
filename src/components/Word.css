@@ -1,0 +1,16 @@
+.active_text{
+
+    font-size: xx-large;
+    color : rgb(221, 217, 217);
+}
+
+.correct_text{
+
+    color: greenyellow;
+}
+
+
+.incorrect_text{
+
+    color:red;
+}

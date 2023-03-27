@@ -1,0 +1,18 @@
+.main_content{
+
+    text-align : center;
+
+
+}
+.sample_text{
+
+    margin : 80px 80px 30px 80px;
+    border-color: white;
+    border-style: double;
+    padding :20px;
+font-size: larger;
+    background-color: rgb(149, 148, 200);
+}
+input{
+    text-align: center;
+}
